@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 569.81 784.12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#New_Pattern_Swatch_4);
+      }
+
+      .cls-2 {
+        fill: #570a24;
+      }
+
+      .cls-3 {
+        fill: #8a1636;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+    <pattern id="New_Pattern_Swatch_4" data-name="New Pattern Swatch 4" x="0" y="0" width="39.31" height="39.31" patternTransform="translate(-9.56 -10.88)" patternUnits="userSpaceOnUse" viewBox="0 0 39.31 39.31">
+      <g>
+        <rect class="cls-4" width="39.31" height="39.31"/>
+        <circle class="cls-2" cx="19.66" cy="19.66" r="4.91"/>
+        <path class="cls-3" d="M4.91,39.31H0v-4.91c2.71,0,4.91,2.2,4.91,4.91Z"/>
+        <path class="cls-3" d="M39.31,34.4v4.91h-4.91c0-2.71,2.2-4.91,4.91-4.91Z"/>
+        <path class="cls-3" d="M39.31,0V4.91c-2.71,0-4.91-2.2-4.91-4.91h4.91Z"/>
+        <path class="cls-3" d="M4.91,0C4.91,2.71,2.71,4.91,0,4.91V0H4.91Z"/>
+      </g>
+    </pattern>
+  </defs>
+  <rect class="cls-1" width="569.81" height="784.12"/>
+</svg>
